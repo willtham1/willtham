@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Will Tham</h1>
 <h3 align="center">A passionate Full Stack Developer from Sacramento!</h3>
+
+- 🌱 I’m currently learning **.NET and in love!**
+
+- 📫 How to reach me **tham.will00@gmail.com**
+
+- ⚡ Fun fact **I am goofy**
+- 
 <p>I am always aquiring new tools for my belt. If you'll like you can keep up with my current goals!</p>
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64af91dc5f038d81eeadbabe?variant=dark" alt="roadmap.sh"/></a>
 
