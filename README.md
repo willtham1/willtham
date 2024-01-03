@@ -7,9 +7,6 @@
 
 - ⚡ Fun fact **I am goofy**
   
-<p>I am always aquiring new tools for my belt. If you'll like you can keep up with my current goals!</p>
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64af91dc5f038d81eeadbabe?variant=dark" alt="roadmap.sh"/></a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/willtham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="willtham" height="30" width="40" /></a>
