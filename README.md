@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Will Tham</h1>
 <h3 align="center">A Full Stack Developer from Sacramento!</h3>
 
-- 🌱 I’m currently learning **.NET!**
-
 - 📫 How to reach me **tham.will00@gmail.com**
 
-- ⚡ Fun fact **I am goofy**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
